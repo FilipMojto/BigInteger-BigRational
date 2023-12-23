@@ -1,0 +1,31 @@
+﻿  Main.cpp
+C:\Users\fmojt\Documents\school\APC\code\CPP_Semestral_Project\CPP_Semestral_Project\my_types.h(89,59): warning C4244: '+=': conversion from 'int64_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\fmojt\Documents\school\APC\code\CPP_Semestral_Project\CPP_Semestral_Project\my_types.h(139,18): warning C4244: '-=': conversion from 'int64_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\fmojt\Documents\school\APC\code\CPP_Semestral_Project\CPP_Semestral_Project\my_types.h(182,18): warning C4244: '-=': conversion from 'int64_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\fmojt\Documents\school\APC\code\CPP_Semestral_Project\CPP_Semestral_Project\my_types.h(350,17): warning C4244: '-=': conversion from 'int64_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\fmojt\Documents\school\APC\code\CPP_Semestral_Project\CPP_Semestral_Project\my_types.h(393,17): warning C4244: '-=': conversion from 'int64_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\fmojt\Documents\school\APC\code\CPP_Semestral_Project\CPP_Semestral_Project\my_types.h(647,38): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\fmojt\Documents\school\APC\code\CPP_Semestral_Project\CPP_Semestral_Project\my_types.h(647,27): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\fmojt\Documents\school\APC\code\CPP_Semestral_Project\CPP_Semestral_Project\my_types.h(704,83): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\fmojt\Documents\school\APC\code\CPP_Semestral_Project\CPP_Semestral_Project\my_types.h(704,52): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+  CPP_Semestral_Project.vcxproj -> C:\Users\fmojt\Documents\school\APC\code\CPP_Semestral_Project\x64\Debug\CPP_Semestral_Project.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
